@@ -11,7 +11,6 @@ A Python-based digital recipe book that allows users to add, search, and categor
 
 ## Usage
 
-Run the `recipe_book.py` script and follow the on-screen instructions.
+Go to the `recipe-book.py` file and follow the on-screen instructions.
 
-```sh
-python recipe_book.py
+
